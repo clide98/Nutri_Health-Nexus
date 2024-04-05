@@ -10,6 +10,7 @@ Project name: Nutri-Health Nexus
 Problem statement: Lack of accurate information and skills for food and nutrition
 
 Solution: Create an online academy where you can train people on food and nutrition
-          Design and implement an intuitive website interface to deliver personalized recommendations for nutrition and health supplements.
+          
+Design and implement an intuitive website interface to deliver personalized recommendations for nutrition and health supplements.
 		
 		
